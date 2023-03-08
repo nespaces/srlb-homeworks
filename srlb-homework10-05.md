@@ -30,7 +30,8 @@ Weighted Round Robin:  Каждому серверу присваивается 
 
 # Задание 5
 ### Настройте Nginx на виртуальной машине таким образом, чтобы при запросе: curl http://localhost:8088/ping он возвращал в ответе строчку: "nginx is configured correctly".
- ![5](https://github.com/nespaces/srlb-homeworks/blob/main/img/25.png)
+ ![5](https://github.com/nespaces/srlb-homeworks/blob/main/img/26.png)
+ 
  ```
  server { 
   listen 8088; 
