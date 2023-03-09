@@ -30,6 +30,6 @@ Corosync отслеживает и передает состояние всех 
 ### Задание 3. Соберите модель, состоящую из двух виртуальных машин. Установите Pacemaker, Corosync, Pcs. Настройте HA кластер.
 
  ![1](https://github.com/nespaces/srlb-homeworks/blob/main/img/3-1.png)
+ ![1](https://github.com/nespaces/srlb-homeworks/blob/main/img/3-4.png)
  ![1](https://github.com/nespaces/srlb-homeworks/blob/main/img/3-2.png)
  ![1](https://github.com/nespaces/srlb-homeworks/blob/main/img/3-3.png)
- ![1](https://github.com/nespaces/srlb-homeworks/blob/main/img/3-4.png)
